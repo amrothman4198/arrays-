@@ -12,7 +12,6 @@ class Main {
  System.out.println(names[3] + " has a grade of " + grades[4]);
  System.out.println(names[5] + " has a grade of " + grades[5]);
 
- String[] grades = new String[];
 
 
 
